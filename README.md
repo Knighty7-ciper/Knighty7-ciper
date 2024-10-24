@@ -38,6 +38,7 @@
     </a>
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=styvensoft&layout=compact&show_icons=true&text_color=ffffff&bg_color=0d1117)](https://github.com/StyvenSoft?tab=repositories)
 <!-- GitHub Achievements -->
 <div>
     <p>Achievements:</p>
