@@ -71,5 +71,14 @@
     </a>
 </div>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/yudii_ty.k/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%23E4405F.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ItsYudii7/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%23E4405F.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kylestorm) 
+[![Discord](https://img.shields.io/badge/Discord-%23E4405F.svg?logo=Discord&logoColor=white)](https://discord.com/channels/@kylebryan7) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=KyleBrian&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4a6e8f&height=100&section=footer">
