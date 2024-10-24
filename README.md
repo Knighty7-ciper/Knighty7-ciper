@@ -91,75 +91,31 @@
     <img src="https://github-profile-trophy.vercel.app/?username=kyleBrian&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Achievements">
   </div>
 
-  <!-- GitHub Skyline -->
+  <!-- Languages and Tools with Hover Effects -->
   <div>
-    <p>GitHub Skyline:</p>
-    <a href="https://skyline.github.com/kyleBrian/2023">
-      <img src="https://skyline.github.com/kyleBrian/2023" alt="GitHub Skyline" width="100%">
+    <h3>Languages and Tools:</h3>
+    <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+      <img class="icon" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/> 
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+      <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
+      <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+      <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+      <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+      <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> 
+    </a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+      <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> 
     </a>
   </div>
-
-  <!-- Custom Animated GIF for GitHub Activity -->
-  <div>
-    <p>GitHub Activity GIF:</p>
-    <img src="https://media.giphy.com/media/1BGY4m5Rs7ZfqjDFiR/giphy.gif" width="300">
-  </div>
-
-  <!-- Social Media Icons with Neon Glow -->
-  <div>
-    <h3>Connect with me:</h3>
-    <a href="https://instagram.com/instagram.com.reza.205" target="blank">
-      <img class="icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/https://youtube.com/@rezdv4" target="blank">
-      <img class="icon" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-    </a>
-  </div>
-
-  <!-- Tools and Languages with Hover Effects -->
-<div>
-  <h3>Languages and Tools:</h3>
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img class="icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-</div>
-
 
   <!-- Wave Footer -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4a6e8f&height=100&section=footer">
