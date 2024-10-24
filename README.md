@@ -1,17 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">  
 
-# 👋 Hi there, I'm Kyle!  
+# 👋 Hi there, I'm Keenan!  
 
-I'm a passionate developer with a love for coding and technology. I enjoy building innovative projects and contributing to the community. Welcome to my GitHub profile!  
 
 <a href="https://github.com/kyle2000"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;AI+Enthusiast;Open-Source+Contributor;Building+Innovative+Projects;Always+Learning;Explorer+of+New+Technologies&center=true&width=500&height=50"></a>
 
-## 💡 Inspiration  
-My biggest inspirations in tech are Sundar Pichai and Satya Nadella. Their work has motivated me to pursue my passion for development and innovation.  
 
-## 🎵 My Coding Playlist  
-I can't code without music! Here are some tracks that keep me focused:  
-Anything from sensual musique in youtube !! haha 
 
 ## 📅 Events & Workshops  
 - Attended TERABYTES Assemble 
