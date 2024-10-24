@@ -11,10 +11,10 @@
 - Attended TERABYTES Assemble 
 - Speaker at "Man of today" : Presented on machine learning applications in everyday life.  
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyleBrian&show_icons=true&theme=radical)  
 ## 📈 GitHub Stats
-
 
 <p align="center">
   <a href="https://github.com/kyleBrian"><img src="https://github-readme-streak-stats.herokuapp.com?user=kyleBrian&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" alt="GitHub Streak" /></a>
@@ -23,6 +23,11 @@
 <p align="center">
   <a href="https://github.com/kyleBrian"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kyle2000&theme=tokyonight" alt="Profile Summary" /></a>
 </p>
+## Github stats:
+
+![GITHUB Stats](https://raw.githubusercontent.com/KyleBrian/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/KyleBrian/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+![GITHUB Stats](https://raw.githubusercontent.com/KyleBrian/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/KyleBrian/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
