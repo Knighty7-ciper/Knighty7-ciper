@@ -26,6 +26,8 @@
       background: linear-gradient(120deg, #3498db, #8e44ad);
       color: white;
       font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
     }
 
     /* Neon Glow around Icons */
@@ -55,18 +57,6 @@
       margin: 20px;
       border-radius: 10px;
     }
-
-    /* Night Sky Animation */
-    .night-sky {
-      background-color: black;
-      background-image: radial-gradient(white, black);
-      animation: stars 2s infinite;
-    }
-
-    @keyframes stars {
-      0% { background-position: 0 0; }
-      100% { background-position: 1000px 1000px; }
-    }
   </style>
 </head>
 <body>
@@ -83,16 +73,22 @@
 
   <!-- GitHub Stats with a Wave Background -->
   <div>
-    <p>GitHub Stats (With a Wave Background):</p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kyleBrian&show_icons=true&theme=radical&bg_color=0d1117" alt="GitHub Stats">
+    <p>GitHub Stats:</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=kyleBrian&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
 
   <!-- GitHub Streak -->
   <div>
     <p>GitHub Streak:</p>
     <a href="https://github.com/kyleBrian">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=kyleBrian&theme=tokyonight&hide_border=false&border=%239611C5FF" alt="GitHub Streak">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=kyleBrian&theme=tokyonight&hide_border=false" alt="GitHub Streak">
     </a>
+  </div>
+
+  <!-- GitHub Achievements -->
+  <div>
+    <p>Achievements:</p>
+    <img src="https://github-profile-trophy.vercel.app/?username=kyleBrian&theme=juicyfresh&margin-w=15&margin-h=15" alt="GitHub Achievements">
   </div>
 
   <!-- GitHub Skyline -->
