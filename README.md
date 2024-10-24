@@ -1,8 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">  
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
 # 👋 Hi there, I'm Keenan!  
 
 <a href="https://github.com/kyle2000"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;AI+Enthusiast;Open-Source+Contributor;Building+Innovative+Projects;Always+Learning;Explorer+of+New+Technologies&center=true&width=500&height=50"></a>
+
+---
+
+## 🎨 Retro & Cyberpunk Themed Vibes 🚀
+
+- Enjoying the **retro** aesthetics mixed with **cyberpunk** flavors to reflect a futuristic yet nostalgic feel.
+- **Background Animation**: Flickering neon lights, paired with terminal-inspired fonts for that cool hacker look.
+
+---
 
 ## 📅 Events & Workshops  
 - Attended TERABYTES Assemble  
@@ -134,14 +143,4 @@ I love constructive criticism! If you have any suggestions or feedback on my pro
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
 </p>
-
