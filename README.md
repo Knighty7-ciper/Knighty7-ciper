@@ -1,81 +1,78 @@
-# 🎮 Knighty7 — Dev XP Console (Pixel Coder Sim)
+<!-- Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=120&section=header&text=Welcome+to+Okaris's+World!&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 
-> *Every commit is a code craft. Every merge is a milestone.*
-
-![Retro Banner](https://capsule-render.vercel.app/api?type=rounded&color=0:ff7eb3,100:7afcff&height=180&section=header&text=👾%20KNIGHTY7%20%7C%20DEV%20XP%20SIM%20👾&fontColor=ffffff&fontSize=28)
-
----
-
-## ⚡️ Live XP Snapshot
-**Last Updated:** `{{DATE}}`  
-**Total XP:** `{{TOTAL_XP}}`  
-**Level:** `{{LEVEL}}`  
-**Daily Streak:** `{{STREAK}}` days
-
-```
-{{PROGRESS_BAR}}
-```
-
-**Recent Gains**
-```
-{{RECENT_POWERUPS}}
-```
-
----
-
-## 🧩 Skill Breakdown (Tech Coder Sim)
-
-| Language | XP | Rank | Progress |
-|----------:|:--:|:----:|:--------|
-| Python 🐍     | {{PYTHON_XP}} | {{PYTHON_RANK}} | {{PYTHON_BAR}} |
-| JavaScript ⚡ | {{JS_XP}}     | {{JS_RANK}}     | {{JS_BAR}}     |
-| HTML/CSS 💎   | {{WEB_XP}}    | {{WEB_RANK}}    | {{WEB_BAR}}    |
-| SQL 🐘        | {{SQL_XP}}    | {{SQL_RANK}}    | {{SQL_BAR}}    |
-| AI / ML 🤖    | {{AI_XP}}     | {{AI_RANK}}     | {{AI_BAR}}     |
-
----
-
-## 🏅 Achievements
-- 🥇 *Commit Conqueror* — Push 100+ commits in a 30-day window  
-- ⚙️ *CI/CD Craftsman* — Ship automated workflows & deployments  
-- 🧠 *ARC Challenger* — Work on ARC-style reasoning systems
-
----
-
-## 🌐 Dynamic Stats Zone
+<!-- Center Intro -->
 <div align="center">
-  ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Knighty7-ciper&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Knighty7-ciper&layout=compact&theme=radical)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Knighty7-ciper&theme=radical)
+  <h1>👋 Hey there, I’m <span style="color:#00BFFF;">Okaris</span></h1>
+  <p>✨ Machine Learning Dev | Fullstack Engineer | Tech Explorer ✨</p>
+
+  <!-- Typing Animation -->
+  <a href="https://github.com/kyle2000">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&vCenter=true&lines=Hello+World!;I’m+Okaris!;ML+Developer+|+AI+Explorer;Building+Future+Tech..." alt="Typing Animation" />
+  </a>
 </div>
 
 ---
 
-## 🕹 XP Console Log (AUTO-UPDATED)
-```
-> Initializing Tech Coder Sim...
-> Syncing GitHub stats...
-> Applying XP rules...
-> Writing updates to README...
-```
+### 🚀 About Me
+- 💡 Passionate about **AI, automation, and clean code.**
+- 🧠 Currently exploring **neural-symbolic AI & ARC Prize concepts.**
+- 💬 Always down to talk **tech, innovation, or strategy.**
+- ⚡ Fun Fact: *I debug in my sleep sometimes... probably successfully.*
 
 ---
 
-<!-- AUTO-GENERATED DATA ZONE -->
-<!-- DO NOT EDIT BELOW, GITHUB ACTION UPDATES THESE FIELDS -->
-<!-- {XP_LOG_START} -->
-No XP logs yet — LevelUp Bot will populate this after the first run.
-<!-- {XP_LOG_END} -->
+### 🧰 Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,js,html,css,tailwind,docker,git,github,vscode,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgres,angular,flask" />
+</div>
 
 ---
 
-### 🔧 Files in this package
-- `.github/workflows/levelup.yml` — GitHub Action that runs daily and updates this README  
-- `update_xp.js` — Node.js script that fetches your GitHub stats and updates the README  
-- `assets/` — pixel icons & small sprites (optional)
+### 📊 GitHub Analytics
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Knighty7-ciper&show_icons=true&theme=tokyonight&hide_border=false" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Knighty7-ciper&theme=tokyonight&hide_border=false" height="180em"/>
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knighty7-ciper&layout=compact&theme=tokyonight&hide_border=false" />
+</div>
 
 ---
 
-<footer>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7afcff,100:ff7eb3&height=90&section=footer"/>
-</footer>
+### 🏆 Achievements & Highlights
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Knighty7-ciper&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Achievements" />
+</div>
+
+---
+
+### 🔝 Top Contributions
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Knighty7-ciper&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+### 🌐 Connect With Me
+<div align="center">
+  <a href="https://www.facebook.com/ItsYudii7/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+  <a href="https://github.com/Knighty7-ciper"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/></a>
+</div>
+
+---
+
+### 👁 Visitor Count
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Knighty7-ciper&label=Profile%20Views&icon=0&color=6&pretty=true" />
+</div>
+
+---
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4a6e8f&height=120&section=footer&animation=twinkling" />
