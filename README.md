@@ -14,11 +14,10 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 💡 Passionate about **AI, automation, and clean code.**
-- 🧠 Currently exploring **neural-symbolic AI & ARC Prize concepts.**
+-  Currently exploring **neural-symbolic AI & ARC Prize concepts.**
 - 💬 Always down to talk **tech, innovation, or strategy.**
-- ⚡ Fun Fact: *I debug in my sleep sometimes... probably successfully.*
 
 ---
 
@@ -65,14 +64,7 @@
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white"/></a>
 </div>
 
----
 
-### 👁 Visitor Count
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Knighty7-ciper&label=Profile%20Views&icon=0&color=6&pretty=true" />
-</div>
-
----
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4a6e8f&height=120&section=footer&animation=twinkling" />
