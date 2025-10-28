@@ -1,9 +1,9 @@
 <!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=120&section=header&text=Welcome+to+Okaris's+World!&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A92B8&height=120&section=header&text=ssup !&fontSize=30&fontColor=ffffff&fontAlignY=35&animation=twinkling" />
 
 <!-- Center Intro -->
 <div align="center">
-  <h1>👋 Hey there, I’m <span style="color:#00BFFF;">Okaris</span></h1>
+  <h1>👋 Hey there, I’m <span style="color:#00BFFF;">Sensei Knightly</span></h1>
   <p>✨ Machine Learning Dev | Fullstack Engineer | Tech Explorer ✨</p>
 
   <!-- Typing Animation -->
